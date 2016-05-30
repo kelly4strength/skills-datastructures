@@ -3,7 +3,7 @@ def string_compare(s1, s2):
 
     Put runtime here:
     -----------------
-    [               ]
+    [      0(n)Linear (loops aren't inside each other)        ]
 
 
     """
@@ -23,7 +23,7 @@ def has_exotic_animals(animals):
 
     Put runtime here:
     -----------------
-    [               ]
+    [         O(n) Linear     ]
 
     """
 
@@ -38,7 +38,7 @@ def sum_zero_1(numbers):
 
     Put runtime here:
     -----------------
-    [               ]
+    [      0(n)         ]
 
     """
 
@@ -60,7 +60,7 @@ def sum_zero_2(numbers):
 
     Put runtime here:
     -----------------
-    [               ]
+    [      0(n2) quadratic time (two nested for loops)         ]
 
     """
 
@@ -80,7 +80,7 @@ def sum_zero_3(numbers):
 
     Put runtime here:
     -----------------
-    [               ]
+    [      0(n2)   quadratic time (two nested for loops)          ]
 
     """
 
